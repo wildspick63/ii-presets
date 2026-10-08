@@ -14,6 +14,18 @@
             "screenshots": [
                 "presets/peace/screenshots/1-aac6f246.png"
             ]
+        },
+        {
+            "id": "black",
+            "name": "black",
+            "description": "black resonance",
+            "version": "1.0.0",
+            "configVersion": 28,
+            "path": "presets/black",
+            "wallpaper": "presets/black/wallpaper.png",
+            "screenshots": [
+                "presets/black/screenshots/1-22e7145f.png"
+            ]
         }
     ]
 }

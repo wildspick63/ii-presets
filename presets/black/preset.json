@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "name": "black",
+    "author": "wildspick63",
+    "description": "black resonance",
+    "version": "1.0.0",
+    "configVersion": 28,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-22e7145f.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-08",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.png"
+}

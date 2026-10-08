@@ -5,6 +5,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 ## Available Presets
 
 - **peace** (`peace`, v1.0.0) — purple peace
+- **black** (`black`, v1.0.0) — black resonance
 
 ## How to Install
 
