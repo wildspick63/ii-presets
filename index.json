@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "author": "wildspick63",
+    "presets": [
+        {
+            "id": "peace",
+            "name": "peace",
+            "description": "purple peace",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/peace",
+            "wallpaper": "presets/peace/wallpaper.jpg",
+            "banner": "presets/peace/banner.png",
+            "screenshots": [
+                "presets/peace/screenshots/1-aac6f246.png"
+            ]
+        }
+    ]
+}

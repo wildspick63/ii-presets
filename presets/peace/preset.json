@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "peace",
+    "author": "wildspick63",
+    "description": "purple peace",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-aac6f246.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-08",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
